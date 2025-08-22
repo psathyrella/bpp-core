@@ -46,6 +46,7 @@
 #include <set>
 #include <map>
 #include <string>
+#include <limits>
 #include "Graph.h"
 
 namespace bpp
